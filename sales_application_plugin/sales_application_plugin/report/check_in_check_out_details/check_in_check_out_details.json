@@ -1,0 +1,29 @@
+{
+ "add_total_row": 0,
+ "columns": [],
+ "creation": "2024-01-19 12:01:58.476797",
+ "disable_prepared_report": 0,
+ "disabled": 0,
+ "docstatus": 0,
+ "doctype": "Report",
+ "filters": [],
+ "idx": 0,
+ "is_standard": "Yes",
+ "modified": "2024-01-19 12:57:30.004837",
+ "modified_by": "Administrator",
+ "module": "Sales Application Plugin",
+ "name": "Check-In Check-Out Details",
+ "owner": "Administrator",
+ "prepared_report": 0,
+ "ref_doctype": "CheckIn-Out",
+ "report_name": "Check-In Check-Out Details",
+ "report_type": "Script Report",
+ "roles": [
+  {
+   "role": "Sales Manager"
+  },
+  {
+   "role": "Sales User"
+  }
+ ]
+}
